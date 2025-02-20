@@ -1,4 +1,4 @@
 # project-demo
 This is my first Git Repository.
 <br>
-Author - Sneha Chauhan
+Author - Sneha Chauhan (student)
